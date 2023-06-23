@@ -1,0 +1,9 @@
+/* .about-cover-image {
+  height: auto;
+  width: 100vh;
+} */
+
+.salesbg {
+  background-image: url("../images/componentsresorse/sales1.png");
+  background-size: cover;
+}
